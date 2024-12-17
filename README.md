@@ -10,7 +10,7 @@ CSS: Estilização e layout.
 JavaScript: Adição de funcionalidades interativas.
 
 Demonstração
-Você pode visualizar o site através deste link: https://lazarorx.github.io/Site-de-apresenta-o
+Você pode visualizar o site através deste link: https://lazarorx.github.io/Site-de-apresenta-o/
 
 Como visualizar o projeto
 
